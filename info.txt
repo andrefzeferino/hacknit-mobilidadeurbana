@@ -1,0 +1,32 @@
+Dados Georeferenciado Mobilidade Urbana
+
+Abrigos de Ônibus
+http://dados-geoniteroi.opendata.arcgis.com/datasets/6f7c13a46c4f48e9ac80df32b1b3e0f2_110
+
+Estabelecimentos Comerciais 2013
+http://dados-geoniteroi.opendata.arcgis.com/datasets/aa0ecbf8ddd143ef9b0de688f62001e7_130
+
+Linhas de Ônibus Sentido Ida 
+http://dados-geoniteroi.opendata.arcgis.com/datasets/589b975fadda495e989611443c4c061a_170
+
+Linhas de Ônibus Sentido Volta 
+http://dados-geoniteroi.opendata.arcgis.com/datasets/0e1c00cc8f444834ac176594c5a99af6_180
+
+Linhas de Ônibus Sentido Circular
+http://dados-geoniteroi.opendata.arcgis.com/datasets/a84c3ec501a849128089b4dc8199386f_160
+
+Uso do Solo
+http://dados-geoniteroi.opendata.arcgis.com/datasets/74760649a3294db0b15d13a3c8a5c226_190
+
+Eixo de Estruturação Viária
+http://dados-geoniteroi.opendata.arcgis.com/datasets/a007610ce3d14fe3aaba2ea4eebb59b3_150
+
+Estabelecimentos Comerciais 2003
+http://dados-geoniteroi.opendata.arcgis.com/datasets/0c7286a9af084fc98673410d32f92c79_120
+
+Ciclovia
+http://dados-geoniteroi.opendata.arcgis.com/datasets/48e9c179f5024ed58c2dbad30507c777_40/
+
+Paraciclos
+http://dados-geoniteroi.opendata.arcgis.com/datasets/7f61d288cc3046eb9ce38341215edc4f_50
+
